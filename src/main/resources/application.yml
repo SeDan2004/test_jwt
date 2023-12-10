@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/test
+    username: postgres
+    password: postgres
+
+jwt:
+  secret:
+    access: Xv0dTEClhd3Uv6eYvmA+yDIrIjngR+iQSv+w7djZRVw=
+    refresh: +aUlxFAv3P1z0x6owtZAl1KoSN6O0WGTzoi3HB3nJ8s=
